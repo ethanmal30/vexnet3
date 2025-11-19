@@ -1,6 +1,8 @@
 # vexnet3
 Small info monitor for custom AP's using a 3.5in (420x320px) screen for the Raspberry Pi 5
 
+![Main monitor page](https://i.imgur.com/jYvWdGq.jpeg)
+
 ## Features:
 - Time → e.g.: `15:30:00`
 - Date → e.g.: `19-11-25`
