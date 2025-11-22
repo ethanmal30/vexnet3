@@ -1,5 +1,5 @@
 # vexnet3
-Small info monitor for custom AP's using a 3.5in (420x320px) screen for the Raspberry Pi 5
+Small info monitor for custom AP's using a 3.5in (420x320px) screen for the Raspberry Pi 5 using RaspAP + hostapd + dnsmasq
 
 ![Main monitor page](https://i.imgur.com/9Xd1CSx.jpeg)
 
