@@ -1,9 +1,10 @@
 # vexnet3
 Small info monitor for custom AP's using a 3.5in (420x320px) screen for the Raspberry Pi 5
 
-![Main monitor page](https://i.imgur.com/jYvWdGq.jpeg)
+![Main monitor page](https://i.imgur.com/9Xd1CSx.jpeg)
 
 ## Features:
+Side 1:
 - Time → e.g.: `15:30:00`
 - Date → e.g.: `19-11-25`
 - Uptime → e.g.: `0:30:00`
@@ -12,14 +13,14 @@ Small info monitor for custom AP's using a 3.5in (420x320px) screen for the Rasp
 - CPU Usage → e.g.: `5%`
 - GPU Clock → e.g.: `500 MHz`
 - RAM Usage → e.g.: `500Mi/8Gi`
-- Disk Space → e.g.: `5G/32G`
+
+Side 2:
 - SSID → e.g.: `TestWiFi`
 - Signal → e.g.: `3.00 dBm`
 - IP → e.g.: `192.168.1.1`
 - Status → e.g.: `UP`
 - Clients → e.g.: `1`
 - Traffic → e.g.: `Outbound: 100 Mb/s` `Inbound: 20 Mb/s`
-- Version → e.g.: `1.1.0`
 
 ## Note:
 I'm not sure if it works on all devices. Adjust and tweak the settings to achieve optimal results :)
